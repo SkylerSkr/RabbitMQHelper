@@ -1,0 +1,11 @@
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.deps.json
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.json
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.runtimeconfig.dev.json
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.dll
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csprojAssemblyReference.cache
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.AssemblyInfo.cs
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\bin\Debug\netcoreapp2.1\RabbitMQ.pdb
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.dll
+C:\Users\10563\Desktop\RabbitMQ\RabbitMQ\obj\Debug\netcoreapp2.1\RabbitMQ.pdb
