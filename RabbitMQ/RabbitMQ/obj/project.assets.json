@@ -4187,11 +4187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\10563\\Desktop\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+      "projectUniqueName": "D:\\Workspace\\Git\\RabbitMQHelper\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
       "projectName": "RabbitMQ",
-      "projectPath": "C:\\Users\\10563\\Desktop\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+      "projectPath": "D:\\Workspace\\Git\\RabbitMQHelper\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
       "packagesPath": "C:\\Users\\10563\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\10563\\Desktop\\RabbitMQ\\RabbitMQ\\obj\\",
+      "outputPath": "D:\\Workspace\\Git\\RabbitMQHelper\\RabbitMQ\\RabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
